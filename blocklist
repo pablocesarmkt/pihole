@@ -57,3 +57,14 @@
 # --- Otros dominios de tracking detectados ---
 0.0.0.0 stats.wp.com
 0.0.0.0 metrics.mzstatic.com
+
+# --- Resto de dominios detectados como not blocked en test ---
+0.0.0.0 api.luckyorange.com
+0.0.0.0 events.reddit.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 app.getsentry.com
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 tools.mouseflow.com
