@@ -68,3 +68,8 @@
 0.0.0.0 app.getsentry.com
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 tools.mouseflow.com
+
+# --- Prime video ---
+atv-ps.primevideo.com
+fls-na.amazon.com
+global.telemetry.insights.video.a2z.com
